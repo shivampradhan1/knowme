@@ -13,4 +13,6 @@ A data and operations enthusiast diving deep into dashboards, analytics, and ins
 
 
 Let’s connect and talk insights, visuals, and real-world impact.
+
+
   
